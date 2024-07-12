@@ -1,1 +1,1 @@
-Essa é a criação da minha API da lista de tarefas do meu código anterior, fiz através do SQLite, uma ferramenta de banco de dados do SQL (da qual eu já tenho conhecimento base) e utilizei para fazer um código simples.
+Essa é a criação da minha API da lista de tarefas do meu código anterior, fiz através do SQLite, uma ferramenta de banco de dados do SQL (da qual eu já tenho conhecimento base) e utilizei para fazer o aprimoramento da CRUD.
