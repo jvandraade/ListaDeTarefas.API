@@ -14,14 +14,14 @@ Lista de Tarefas:
     - Código: 200.
     - Conteúdo: Inclui um objeto JSON a lista de tarefas.
   Exemplo de Resposta:
-  [
+  ```
     {
       "id": 5,
       "titulo": "Exemplo",
       "descricao": "Exemplo",
       "status": true
     }
-  ]
+  ``
 
 - Método HTTP: GET
 - Descrição: Retorna todas as tarefas que foram inclusas na lista.
@@ -30,14 +30,14 @@ Lista de Tarefas:
   - Conteúdo: Retorna as tarefas da lista que ainda não foram concluídas.
   - Status da tarefa não concluída: FALSE.
     Exemplo de Resposta:
-    [
+   ``` 
       {
         "id": 2,
         "titulo": "Cinema",
         "descricao": "Ir ao cinema com a namorada",
         "status": false
       }
-    ]
+    ``
 
 - Método HTTP: DELETE
 - Descrição: Deleta qualquer tarefa da lista sendo ela concluída ou não.
