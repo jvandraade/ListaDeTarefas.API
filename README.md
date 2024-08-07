@@ -21,7 +21,7 @@ Lista de Tarefas:
       "descricao": "Exemplo",
       "status": true
     }
-  ``
+  
 
 - Método HTTP: GET
 - Descrição: Retorna todas as tarefas que foram inclusas na lista.
@@ -37,7 +37,7 @@ Lista de Tarefas:
         "descricao": "Ir ao cinema com a namorada",
         "status": false
       }
-    ``
+    
 
 - Método HTTP: DELETE
 - Descrição: Deleta qualquer tarefa da lista sendo ela concluída ou não.
